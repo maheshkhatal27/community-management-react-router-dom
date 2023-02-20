@@ -1,0 +1,30 @@
+* {
+    margin: 0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+.home-container{
+    background-image: url("https://res.cloudinary.com/dodmtflaq/image/upload/v1676897098/community-maintenance/bg-image_nm48iu.jpg");
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.content-container{
+    background-color: #14130f;
+    background-size: cover;
+    height: 100px;
+    width: 520px;
+    opacity: 0.9;
+    padding:20px;
+    margin-left:20px;
+}
+.heading{
+    color: #ffffff;
+    font-size:26px;
+    font-family: Roboto;
+}
